@@ -1,6 +1,6 @@
 # HELEN (High-End Learning Environment)
 
-HELEN is an AI-powered application designed to assist visually impaired students in interacting with educational PDFs. It utilizes a chat interface with accessible features, voice control for interacting with documents, and an AI-driven quiz section for evaluating student responses.
+HELEN is an AI-powered RAG based application designed to assist visually impaired students in interacting with educational PDFs. It utilizes a chat interface with accessible features, voice control for interacting with documents, and an AI-driven quiz section for evaluating student responses.
 
 ## Features
 
